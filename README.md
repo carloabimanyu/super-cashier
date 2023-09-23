@@ -83,6 +83,7 @@ transaction.delete_item("Item B")
 total_price = transaction.calculate_total_price()
 ```
 
+Output:
 ```
 Item A pcs of 2 with unit price 10000 added.
 Item B pcs of 3 with unit price 15000 added.
